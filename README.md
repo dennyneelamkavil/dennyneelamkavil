@@ -25,7 +25,7 @@ I’m a Full Stack Web Developer who started my journey in **November 2023**. I'
 - 🔗 LinkedIn: https://www.linkedin.com/in/dennynj/  
 - 💬 Open to freelance, collaborations, or just a good tech talk—feel free to connect!
 
-![GitHub Snake](https://github.com/dennyneelamkavil/dennyneelamkavil/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/dennyneelamkavil/dennyneelamkavil/blob/output/github-contribution-grid-snake-github-dark.svg)
 
 ## ⚡ Fun Fact
 One of my early projects was a **digital clock**—simple but a reminder that every project counts! I'm now building complex apps like **MoviePass**, a full-fledged ticket booking system with admin dashboards and payment integration.
