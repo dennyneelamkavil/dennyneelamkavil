@@ -21,7 +21,7 @@ I’m a Full Stack Web Developer who started my journey in **November 2023**. I'
 
 ## 📫 How to Reach Me
 - 📧 Email: dennynj4748@gmail.com  
-- 🔗 Personal Portfolio : https://dennynj.vercel.app/ 
+- 🔗 Personal Portfolio : https://www.dennynj.in/ 
 - 🔗 LinkedIn: https://www.linkedin.com/in/dennynj/  
 - 💬 Open to freelance, collaborations, or just a good tech talk—feel free to connect!
 
